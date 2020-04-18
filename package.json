@@ -1,0 +1,26 @@
+{
+  "name": "apifunctions",
+  "version": "1.0.0",
+  "description": "API Functions - HTTP, SCHUDULED, EMAIL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisbrocklesby/apifunctions.git"
+  },
+  "keywords": [
+    "API",
+    "Functions",
+    "HTTP",
+    "EMail",
+    "CRON"
+  ],
+  "author": "Chris Brocklesby",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisbrocklesby/apifunctions/issues"
+  },
+  "homepage": "https://github.com/chrisbrocklesby/apifunctions#readme"
+}
